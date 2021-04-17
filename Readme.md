@@ -28,3 +28,6 @@ https://imgur.com/
 - [What points to consider while creating Database schema](https://www.codeproject.com/Articles/359654/11-important-database-designing-rules-which-I-fo-2)
 - [Wireframes](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
 - [Storing files in Database Yea or Nay?](https://stackoverflow.com/questions/3748/storing-images-in-db-yea-or-nay)
+
+
+Demo  : https://imgur-pratiksha.herokuapp.com/
