@@ -1,0 +1,24 @@
+{
+  "name": "MS_Imgur---backend_Aquila_Tep_Online_Full-time_2021_7",
+  "version": "1.0.0",
+  "description": "## Learning Competencies",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/MS_Imgur---backend_Aquila_Tep_Online_Full-time_2021_7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/MS_Imgur---backend_Aquila_Tep_Online_Full-time_2021_7/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/MS_Imgur---backend_Aquila_Tep_Online_Full-time_2021_7#readme"
+}
