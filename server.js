@@ -3,6 +3,7 @@ const mongoose = require('mongoose');
 const morgan = require('morgan');
 const cors = require('cors');
 const signuproute = require('./routes/user-route');
+const imageroute = require('./routes/image-route');
 
 
 
@@ -54,3 +55,4 @@ app.use(morgan('dev')); //logger middleware
 
 //middlewares
 app.use('/user', signuproute);
+app.use('/image', imageroute);
